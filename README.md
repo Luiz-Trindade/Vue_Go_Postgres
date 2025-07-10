@@ -36,4 +36,4 @@ docker compose up -d
 # 3. Acesse:
 # Backend: http://localhost:8080
 # Frontend: http://localhost:3000
-``
+```
