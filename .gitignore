@@ -30,7 +30,6 @@ dist/
 # Arquivos específicos do Go
 # Binário do projeto
 /main
-/backend
 
 # Test coverage
 *.out
